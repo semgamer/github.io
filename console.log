@@ -1,0 +1,5 @@
+const someFunction = (x) => {
+  return 10 * 42;
+};
+const y = someFunction(9281);
+node console.js
